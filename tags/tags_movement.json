@@ -10,11 +10,14 @@
 		"DevComment": "Sprint/Dash at higher speed"
 	},
 	{
+<<<<<<< HEAD
 		"Name": "movement.dash.end",
 		"Tag": "movement.dash.end",
 		"DevComment": "Exclusive tag for Dash Movement and ending dash activity"
 	},
 	{
+=======
+>>>>>>> 3d2439d (fix: Sprint ability - check for run and cost)
 		"Name": "movement.sprint.end",
 		"Tag": "movement.sprint.end",
 		"DevComment": "To end sprint/dash ability or operation"

@@ -1,5 +1,16 @@
 # Gameplay Ability System
 
+> Upto Chapter 4, **topic 4.2 - Gameplay Cues**
+
+| Chapter |                                | Topics                         |                        |                    |
+| ------- | ------------------------------ | ------------------------------ | ---------------------- | ------------------ |
+| 1       | 1.1 - GAS & ASC initialize     | 1.2 - Attribute set            | 1.3 - Gameplay Effects |
+| 2       | 2.1 - Melee implementation     | 2.2 - Melee Ability            | 2.3 - Block Ability    |
+| 3       | 3.1 - Triple Jump              | 3.2 - Sprint Ability           | 3.3 - Dodge Ability    | 3.4 - Dash Ability |
+| 4       | 4.1 - Disables - Silence, Stun | 4.2 - Gameplay Cues            | 4.3 - UI with GAS      |
+| 5       | 5.1 - Blink + Ability Task     | 5.2 - Passive Ability          | 5.3 - Curve Table, MMC |
+| 6       | 6.1 - Effect Execution Class   | 6.2 - Stacking and overflowing |
+
 ## Attributes and UI
 
 -   Implemented
